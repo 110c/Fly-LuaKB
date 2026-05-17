@@ -1,3 +1,3 @@
- - Walkspeed -
+ - Fly -
 Customization
-WalkSpeed: 0 - 100,000
+FlySpeed: 0 - 50,000
